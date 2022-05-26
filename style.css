@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&display=swap');
+* {scroll-behavior: smooth;margin: 0;padding: 0;box-sizing: border-box;border: 1px sol id red;}
+body {font-family: sans-serif;}
+/* ************************************** */
+.carousel-caption {bottom: 3.2rem;}
+.carousel-caption p {color: #d2d2d2;}
+.carousel-caption a:hover {background: transparent;color: white;}
+.carousel-indicators [data-bs-target] {width: 50px;height: 15px;border-radius: 40%;margin: 0 7px;}
+.sec1{margin-top: 100px;}
+.align-items-center{flex-wrap: wrap;}
+.active{color: white;}
+.price-box{border-radius: 18px;padding:50px 10px 30px 30px;transition: 0.5s;}
+.price-box:hover{transform:translateY(-10px)}
+.price-box ul li{line-height: 30px;}
+.hot{position:relative;top: -65px; right: -180px;}
+.btn-outline-light{background: #FCE4F3;/*padding: 8px 40px;**/color: #0080ff;}
+.btn-outline-light:hover{border: 1px #FCE4F3 solid;}
+.btn-light{color: #0080ff;}
+.man div{padding: 10px 10px;margin: 0 10px;}
+.footer-info{flex-wrap: wrap;}
+.footer-text{flex-basis: 50%;}
+.footer-img{flex-basis: 50%;flex-direction: column;padding: 30px 0;}
+.footer-img img{width: 150px;}
+
+
+
+
+
+
+
+
+
+
